@@ -1,5 +1,5 @@
 // API Reference: https://www.wix.com/velo/reference/api-overview/introduction
-import { getWeather } from 'public/weather.js';
+// import getWeather from './masterPage'
 // “Hello, World!” Example: https://learn-code.wix.com/en/article/hello-world
 
 $w.onReady(function () {
